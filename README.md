@@ -1,0 +1,1 @@
+The project portion of the "From Nand to Tetris" course, found here: https://www.nand2tetris.org/
